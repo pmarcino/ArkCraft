@@ -24,14 +24,14 @@
 				</div>
 				<div class="collapse navbar-collapse" id="navBarArkCraft">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="Home.php">Home</a></li>
+						<li><a href="Home.php">Home</a></li>
 						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <span class="caret"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="#">Water temple</a><li>
 							</ul>
 						</li>
 						<li><a href="Download.php">Download</a></li>
-						<li><a href="contact.php">Contact</a></li>
+						<li class="active"><a href="contact.php">Contact</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li> 
